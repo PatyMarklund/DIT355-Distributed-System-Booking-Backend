@@ -1,0 +1,22 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Booking component",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.chalmers.se:courses/dit355/dit356-2022/t-10/booking.git"
+  },
+  "author": "Team 10",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-range": "^4.0.2",
+    "mongoose": "^6.7.3",
+    "mqtt": "^4.3.7",
+    "opossum": "^7.0.1"
+  }
+}
